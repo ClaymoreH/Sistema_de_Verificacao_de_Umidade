@@ -38,11 +38,11 @@ Desenvolver um sistema automatizado e acessível para monitorar as condições d
   - Simulação inicial do sistema utilizando potenciômetro e ESP32.
   - Integração dos sensores de umidade e temperatura.
   - Implementação de alertas sonoros para valores fora do ideal.
+  - Adicionar a integração de dados climáticos.
 
 - **Em Andamento:**
-  - Adicionar funcionalidade da integração de informações climáticas.
   - Dashboard funcional no Node-RED com suporte a múltiplos sensores.
-  - Implementação de alertas visuais para valores fora do ideal.
+  - Finalização da documentação tecnica.
 
 ---
 
